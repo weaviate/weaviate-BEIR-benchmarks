@@ -26,7 +26,7 @@ Weaviate Backups
 <ul>
   <li> NFCorpus - https://storage.googleapis.com/weaviate-nfcorpus/nfcorpus.zip </li>
   <li> FIQA - https://storage.googleapis.com/weaviate-fiqa/fiqa.zip </li>
-  <li> Arguana - https://storage.googleapis.com/arguana/arguana.zip </li>
+  <li> Arguana - https://storage.googleapis.com/weaviate-arguana/arguana.zip </li>
   <li> SCIDOCS - https://storage.googleapis.com/weaviate-scidocs/scidocs.zip </li>
   <li> SCIFACT - https://storage.googleapis.com/weaviate-scifact/scifact.zip </li>
   <li> TREC-COVID - https://storage.googleapis.com/weaviate-trec-covid/trec-covid.zip </li>
@@ -36,5 +36,5 @@ Query Files
 <ul>
   <li> NFCorpus - https://storage.googleapis.com/weaviate-nfcorpus/NFCorpus-Query.json </li>
   <li> FIQA - https://storage.googleapis.com/weaviate-fiqa/FIQA-Query.json.zip </li>
-  <li> 
+  <li> Arguana - https://storage.googleapis.com/weaviate-arguana/ARGUANA-Query.json.zip </li>
 </ul>
