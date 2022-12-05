@@ -5,6 +5,7 @@ This repository contains the BEIR benchmark datasets in Weaviate!
 The goal of this library is to facilitate research in text information retrieval!
 
 <ul>
-<li> NFCorpus - https://storage.googleapis.com/nfcorpus/nfcorpus.zip </li>
-<li> FIQA - https://storage.googleapis.com/fiqa/fiqa.zip </li>
+  <li> NFCorpus - https://storage.googleapis.com/nfcorpus/nfcorpus.zip </li>
+  <li> FIQA - https://storage.googleapis.com/fiqa/fiqa.zip </li>
+  <li> Arguana - https://storage.googleapis.com/arguana/arguana.zip </li>
 </ul>
