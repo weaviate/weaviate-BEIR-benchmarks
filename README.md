@@ -16,7 +16,7 @@ python3 ndcg-test.py --name NFCorpus --alpha 0.5
 
 Weaviate Backups
 <ul>
-  <li> NFCorpus - https://storage.googleapis.com/nfcorpus/nfcorpus.zip </li>
+  <li> NFCorpus - https://storage.googleapis.com/weaviate-nfcorpus/nfcorpus.zip </li>
   <li> FIQA - https://storage.googleapis.com/fiqa/fiqa.zip </li>
   <li> Arguana - https://storage.googleapis.com/arguana/arguana.zip </li>
   <li> SCIDOCS - https://storage.googleapis.com/weaviate-scidocs/scidocs.zip </li>
@@ -26,5 +26,5 @@ Weaviate Backups
 
 Query Files
 <ul>
-  <li> NFCorpus - </li>
+  <li> NFCorpus - https://storage.googleapis.com/weaviate-nfcorpus/NFCorpus-Query.json </li>
 </ul>
