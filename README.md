@@ -6,6 +6,7 @@ The goal of this library is to facilitate research in text information retrieval
 
 
 Run these 3 commands to get the nDCG and hits at 1 / hits at 5 metrics for a BEIR dataset!
+<br />
 (Make sure to download the Backup and Query files from the links below)
 ```bash
 docker-compose up -d
