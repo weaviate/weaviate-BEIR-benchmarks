@@ -38,4 +38,6 @@ Query Files
   <li> FIQA - https://storage.googleapis.com/weaviate-fiqa/FIQA-Query.json.zip </li>
   <li> Arguana - https://storage.googleapis.com/weaviate-arguana/ARGUANA-Query.json.zip </li>
   <li> SCIDOCS - https://storage.googleapis.com/weaviate-scidocs/SCIDOCS-Query.json.zip </li>
+  <li> SCIFACT - https://storage.googleapis.com/weaviate-scifact/SCIFACT-Query.json.zip </li>
+  <li> TREC-COVID - https://storage.googleapis.com/weaviate-trec-covid/TREC-COVID-Query.json.zip </li>
 </ul>
