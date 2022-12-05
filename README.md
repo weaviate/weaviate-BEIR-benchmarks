@@ -4,7 +4,7 @@ This repository contains the BEIR benchmark datasets in Weaviate!
 
 The goal of this library is to facilitate research in text information retrieval!
 
-Firstly download a Weaviate BEIR Backup and then organize your filesystem like this:
+Firstly download a Weaviate BEIR Backup and then organize your filesystem like this (e.g. with nfcorpus backup folder):
 ```md
 -- backups -- nfcorpus
 -- tmp     -- backups
