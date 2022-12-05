@@ -4,6 +4,11 @@ This repository contains the BEIR benchmark datasets in Weaviate!
 
 The goal of this library is to facilitate research in text information retrieval!
 
+```bash
+docker-compose up -d
+python3 restore.py --name NFCorpus
+```
+
 <ul>
   <li> NFCorpus - https://storage.googleapis.com/nfcorpus/nfcorpus.zip </li>
   <li> FIQA - https://storage.googleapis.com/fiqa/fiqa.zip </li>
