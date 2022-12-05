@@ -7,6 +7,7 @@ The goal of this library is to facilitate research in text information retrieval
 ```bash
 docker-compose up -d
 python3 restore.py --name NFCorpus
+python3 ndcg-test.py --name NFCorpus --alpha 0.5
 ```
 
 <ul>
