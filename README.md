@@ -37,7 +37,7 @@ Weaviate Backups
 
 Query Files
 <ul>
-  <li> NFCorpus - https://storage.googleapis.com/weaviate-nfcorpus/NFCorpus-Query.json </li>
+  <li> NFCorpus - https://storage.googleapis.com/weaviate-nfcorpus/NFCorpus-Query.json.zip </li>
   <li> FIQA - https://storage.googleapis.com/weaviate-fiqa/FIQA-Query.json.zip </li>
   <li> ARGUANA - https://storage.googleapis.com/weaviate-arguana/ARGUANA-Query.json.zip </li>
   <li> SCIDOCS - https://storage.googleapis.com/weaviate-scidocs/SCIDOCS-Query.json.zip </li>
