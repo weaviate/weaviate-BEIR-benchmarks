@@ -52,7 +52,7 @@ for idx, query_obj in enumerate(queries):
     {
             Get {
                 Document (
-                    hybridSearch: {
+                    hybrid: {
                         query: "%s"
                         alpha: %s
                     }
