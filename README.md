@@ -2,12 +2,14 @@
 
 This repository contains the BEIR benchmark datasets in Weaviate!
 
-The goal of this library is to facilitate research in text information retrieval!
+To run the tests, first grab the backup and query files from the google bucket links below:
 
-Firstly download a Weaviate BEIR Backup and then organize your filesystem like this (e.g. with nfcorpus backup folder):
+Then organize your filesystem like this, note the backups folder is empty
+
 ```md
--- backups -- nfcorpus
--- tmp     -- backups
+-- backups / nfcorpus
+-- tmp     / backups
+-- BEIR-Files / {BEIR-dataset-name}-query.json
 docker-compose.yml
 restore.py
 ndcg-tests.py
