@@ -9,7 +9,7 @@ Then organize your filesystem like this, note the backups folder is empty
 ```md
 -- backups / nfcorpus
 -- tmp     / backups
--- BEIR-Files / {BEIR-dataset-name}-query.json
+-- BEIR-Files / {BEIR-dataset-name}-Query.json
 docker-compose.yml
 restore.py
 ndcg-tests.py
