@@ -47,7 +47,7 @@ Query Files
 
 Corpus Files
 <ul>
-  <li> NFCorpus - https://storage.googleapis.com/weaviate-nfcorpus/NFCorpus-Corpus.json </li>
+  <li> NFCorpus - https://storage.googleapis.com/weaviate-nfcorpus/NFCorpus-Corpus.json.zip </li>
   <li> FIQA - https://storage.googleapis.com/weaviate-fiqa/FIQA-Corpus.json.zip </li>
   <li> ARGUANA - https://storage.googleapis.com/weaviate-arguana/ARGUANA-Corpus.json.zip </li>
   <li> SCIDOCS - https://storage.googleapis.com/weaviate-scidocs/SCIDOCS-Corpus.json.zip </li>
