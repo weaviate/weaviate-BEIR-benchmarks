@@ -55,7 +55,8 @@ for idx, query_obj in enumerate(queries):
                     hybrid: {
                         query: "%s"
                         alpha: %s
-                    }
+                    },
+                    limit: 100
                 ){
                 docID
                 }
