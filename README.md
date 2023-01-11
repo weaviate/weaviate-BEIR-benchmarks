@@ -7,7 +7,7 @@ To run the tests, first grab the backup and query files from the google bucket l
 Then organize your filesystem like this, note the backups folder is empty
 
 ```md
--- backups / nfcorpus
+-- backups / {BEIR-dataset-name}
 -- tmp     / backups
 -- BEIR-Files / {BEIR-dataset-name}-Query.json
 docker-compose.yml
