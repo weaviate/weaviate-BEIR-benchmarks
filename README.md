@@ -10,6 +10,7 @@ Then organize your filesystem like this, note the backups folder is empty
 -- backups / {BEIR-dataset-name}
 -- tmp     / backups
 -- BEIR-Files / {BEIR-dataset-name}-Query.json
+
 docker-compose.yml
 restore.py --name {BEIR-dataset-name}
 ndcg-tests.py --name {BEIR-dataset-name} --alpha 0.5
