@@ -11,8 +11,8 @@ Then organize your filesystem like this, note the backups folder is empty
 -- tmp     / backups
 -- BEIR-Files / {BEIR-dataset-name}-Query.json
 docker-compose.yml
-restore.py
-ndcg-tests.py
+restore.py --name {BEIR-dataset-name}
+ndcg-tests.py --name {BEIR-dataset-name} --alpha 0.5
 ```
 <br />
 Run these 3 commands to get the nDCG and hits at 1 / hits at 5 metrics for a BEIR dataset!
