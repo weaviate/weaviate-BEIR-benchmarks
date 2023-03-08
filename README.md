@@ -4,16 +4,13 @@ This repository contains the BEIR benchmark datasets in Weaviate!
 
 To run the tests, first grab the backup and query files from the google bucket links below:
 
-Then organize your filesystem like this, note the backups folder is empty
-
+YOur file system should look like this:
 ```md
 -- backups / {BEIR-dataset-name}
--- tmp     / backups
 -- BEIR-Files / {BEIR-dataset-name}-Query.json
-
 docker-compose.yml
 restore.py
-ndcg-tests.py
+get-metrics.py
 ```
 <br />
 Run these 3 commands to get the nDCG and hits at 1 / hits at 5 metrics for a BEIR dataset!
@@ -23,35 +20,32 @@ Run these 3 commands to get the nDCG and hits at 1 / hits at 5 metrics for a BEI
 ```bash
 docker-compose up -d
 python3 restore.py --name NFCorpus
-python3 ndcg-test.py --name NFCorpus --alpha 0.5
+python3 get-metrics.py --name NFCorpus --alpha 0.5
 ```
 
 Weaviate Backups
 <ul>
-  <li> NFCorpus - https://storage.googleapis.com/weaviate-nfcorpus/nfcorpus.zip </li>
-  <li> FIQA - https://storage.googleapis.com/weaviate-fiqa/fiqa.zip </li>
-  <li> ARGUANA - https://storage.googleapis.com/weaviate-arguana/arguana.zip </li>
+  <li> NFCorpus - https://drive.google.com/file/d/17Y4gh5AJUqSceXESissWck6YT62biEjK/view?usp=sharing </li>
+  <li> FIQA - https://drive.google.com/file/d/12T_rPc_RaaSt6H_we6cOjozCddlHsE2v/view?usp=sharing </li>
+  <li> ARGUANA - https://drive.google.com/file/d/1eUFASQZ0UG_mW2aluRj-FkpXGowDlVIL/view?usp=sharing </li>
   <li> SCIDOCS - https://storage.googleapis.com/weaviate-scidocs/scidocs.zip </li>
   <li> SCIFACT - https://storage.googleapis.com/weaviate-scifact/scifact.zip </li>
   <li> TREC-COVID - https://storage.googleapis.com/weaviate-trec-covid/trec-covid.zip </li>
+  <li> QUORA - </li>
+  <li> Natural Questions - </li>
 </ul>
 
-Query Files
+Query Files (These need to be extended with multi-relevance labels)
 <ul>
-  <li> NFCorpus - https://storage.googleapis.com/weaviate-nfcorpus/NFCorpus-Query.json.zip </li>
-  <li> FIQA - https://storage.googleapis.com/weaviate-fiqa/FIQA-Query.json.zip </li>
-  <li> ARGUANA - https://storage.googleapis.com/weaviate-arguana/ARGUANA-Query.json.zip </li>
-  <li> SCIDOCS - https://storage.googleapis.com/weaviate-scidocs/SCIDOCS-Query.json.zip </li>
-  <li> SCIFACT - https://storage.googleapis.com/weaviate-scifact/SCIFACT-Query.json.zip </li>
-  <li> TREC-COVID - https://storage.googleapis.com/weaviate-trec-covid/TREC-COVID-Query.json.zip </li>
+  <li> NFCorpus - https://drive.google.com/file/d/1FCmjtBF4VQwsoeUIUt6oP_rmDSgkPpFE/view?usp=sharing </li>
+  <li> FIQA - https://drive.google.com/file/d/1fKZouQq_s-Lg7-GhJ4Dp83Q-rH7dkimI/view?usp=sharing </li>
+  <li> ARGUANA - https://drive.google.com/file/d/1sbRy8zJhD9_ZwcgXISfqu2b9_AlOhcwD/view?usp=sharing </li>
+  <li> SCIDOCS - https://drive.google.com/file/d/1himnjWVMLR2VDlYoFBWGayScrG32ipAu/view?usp=sharing </li>
+  <li> SCIFACT - https://drive.google.com/file/d/1Ah95b_tIPd6PLmYUDqQ-iVN58aTQxS_Q/view?usp=sharing </li>
+  <li> TREC-COVID - https://drive.google.com/file/d/141MhWA2OeYUI42AgibNA7VEZU4J4sVua/view?usp=sharing </li>
+  <li> TOUCHE2020 - https://drive.google.com/file/d/1--a6mu0pBYLXpOzeXgK3iXGcwzrFS9IA/view?usp=sharing </li>
+  <li> QUORA - https://drive.google.com/file/d/1-7uB1Od7T0i1H9DH-SoI6fX8fRNn6JD2/view?usp=sharing </li>
+  <li> NQ - https://drive.google.com/file/d/1yH-jmuBahv1SCaj8lfz012j-foiVzMcB/view?usp=sharing </li>
 </ul>
 
-Corpus Files
-<ul>
-  <li> NFCorpus - https://storage.googleapis.com/weaviate-nfcorpus/NFCorpus-Corpus.json.zip </li>
-  <li> FIQA - https://storage.googleapis.com/weaviate-fiqa/FIQA-Corpus.json.zip </li>
-  <li> ARGUANA - https://storage.googleapis.com/weaviate-arguana/ARGUANA-Corpus.json.zip </li>
-  <li> SCIDOCS - https://storage.googleapis.com/weaviate-scidocs/SCIDOCS-Corpus.json.zip </li>
-  <li> SCIFACT - https://storage.googleapis.com/weaviate-scifact/SCIFACT-Corpus.json.zip </li>
-  <li> TREC-COVID - https://storage.googleapis.com/weaviate-trec-covid/TREC-COVID-Corpus.json.zip </li>
-</ul>
+Corpus Files (coming soon)
