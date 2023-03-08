@@ -28,7 +28,7 @@ Weaviate Backups
   <li> ARGUANA - https://drive.google.com/file/d/1eUFASQZ0UG_mW2aluRj-FkpXGowDlVIL/view?usp=sharing </li>
   <li> SCIDOCS - https://drive.google.com/file/d/1cX4y_4NuZ5jyI6ujbbIbw5JG_nkwDbix/view?usp=sharing </li>
   <li> SCIFACT -  https://drive.google.com/file/d/1VyOHExz1tXzfIYYENoBB4Y4kTIwvm2QL/view?usp=sharing </li>
-  <li> TREC-COVID -  </li>
+  <li> TREC-COVID - https://drive.google.com/file/d/1A5tfafCtIpsSonvO6bbOJ5-iRORdFDjS/view?usp=sharing</li>
   <li> TOUCHE2020 - https://drive.google.com/file/d/1gJk30-OU32zXfJUYdrmn4pO-LzV4tdYw/view?usp=sharing </li>
   <li> QUORA - https://drive.google.com/file/d/1ZLUCJxsOhr_AbUL06DLG3qh6QU5MEB1Z/view?usp=sharing </li>
   <li> Natural Questions - https://drive.google.com/file/d/1WevhlcWnoSIHpskvs0DGsbXrsa2V7pmv/view?usp=sharing </li>
