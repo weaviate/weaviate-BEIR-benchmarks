@@ -30,7 +30,7 @@ Weaviate Backups
   <li> SCIFACT - https://storage.googleapis.com/weaviate-scifact/scifact.zip </li>
   <li> TREC-COVID - https://storage.googleapis.com/weaviate-trec-covid/trec-covid.zip </li>
   <li> QUORA - </li>
-  <li> Natural Questions - </li>
+  <li> Natural Questions - https://drive.google.com/file/d/1WevhlcWnoSIHpskvs0DGsbXrsa2V7pmv/view?usp=sharing </li>
 </ul>
 
 Query Files (These need to be extended with multi-relevance labels)
