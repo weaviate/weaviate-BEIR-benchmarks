@@ -2,9 +2,9 @@ nDCG Scores
 
 | alpha             | 0     | 0.25  | 0.5   | 0.75  | 1     |
 |-------------------|-------|-------|-------|-------|-------|
-| NFCorpus          |       |       |       |       |       |
+| NFCorpus          | 0.224 | 0.261 | 0.280 | 0.274 | 0.264 |
 | SciFact           |       |       |       |       |       |
-| ArguAna           |       |       |       |       |       |
+| ArguAna           | 0.368 |       | 0.407 |       | 0.411 |
 | SCIDOCS           |       |       |       |       |       |
 | FIQA              | 0.284 | 0.390 | 0.428 | 0.447 | 0.434 |
 | TREC-COVID        |       |       |       |       |       |
@@ -12,13 +12,13 @@ nDCG Scores
 | Quora             | 0.770 |       | 0.867 |       | 0.887 |
 | Natural Questions |       |       |       |       |       |
 
-Speed
+Speed (seconds) -- running on my laptop...
 
 | alpha             | 0   | 0.5 | 1   |
 |-------------------|-----|-----|-----|
-| NFCorpus          |     |     |     |
+| NFCorpus          | 19  | 68  | 66  |
 | SciFact           |     |     |     |
-| ArguAna           |     |     |     |
+| ArguAna           | 38  | 123 | 88  |
 | SCIDOCS           |     |     |     |
 | FIQA              | 85  | 271 | 159 |
 | TREC-COVID        |     |     |     |
@@ -26,6 +26,7 @@ Speed
 | Quora             | 448 | 783 | 377 |
 | Natural Questions |     |     |     |
 
+ToDo/
 Average Recall
 Hits at 1
 Hits at 5
