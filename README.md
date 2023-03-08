@@ -29,7 +29,7 @@ Weaviate Backups
   <li> SCIDOCS - https://storage.googleapis.com/weaviate-scidocs/scidocs.zip </li>
   <li> SCIFACT - https://storage.googleapis.com/weaviate-scifact/scifact.zip </li>
   <li> TREC-COVID - https://storage.googleapis.com/weaviate-trec-covid/trec-covid.zip </li>
-  <li> QUORA - </li>
+  <li> QUORA - https://drive.google.com/file/d/1ZLUCJxsOhr_AbUL06DLG3qh6QU5MEB1Z/view?usp=sharing </li>
   <li> Natural Questions - https://drive.google.com/file/d/1WevhlcWnoSIHpskvs0DGsbXrsa2V7pmv/view?usp=sharing </li>
 </ul>
 
