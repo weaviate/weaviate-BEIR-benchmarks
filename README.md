@@ -26,9 +26,10 @@ Weaviate Backups
   <li> NFCorpus - https://drive.google.com/file/d/17Y4gh5AJUqSceXESissWck6YT62biEjK/view?usp=sharing </li>
   <li> FIQA - https://drive.google.com/file/d/12T_rPc_RaaSt6H_we6cOjozCddlHsE2v/view?usp=sharing </li>
   <li> ARGUANA - https://drive.google.com/file/d/1eUFASQZ0UG_mW2aluRj-FkpXGowDlVIL/view?usp=sharing </li>
-  <li> SCIDOCS - https://storage.googleapis.com/weaviate-scidocs/scidocs.zip </li>
-  <li> SCIFACT - https://storage.googleapis.com/weaviate-scifact/scifact.zip </li>
-  <li> TREC-COVID - https://storage.googleapis.com/weaviate-trec-covid/trec-covid.zip </li>
+  <li> SCIDOCS - https://drive.google.com/file/d/1cX4y_4NuZ5jyI6ujbbIbw5JG_nkwDbix/view?usp=sharing </li>
+  <li> SCIFACT -  https://drive.google.com/file/d/1VyOHExz1tXzfIYYENoBB4Y4kTIwvm2QL/view?usp=sharing </li>
+  <li> TREC-COVID -  </li>
+  <li> TOUCHE2020 - </li>
   <li> QUORA - https://drive.google.com/file/d/1ZLUCJxsOhr_AbUL06DLG3qh6QU5MEB1Z/view?usp=sharing </li>
   <li> Natural Questions - https://drive.google.com/file/d/1WevhlcWnoSIHpskvs0DGsbXrsa2V7pmv/view?usp=sharing </li>
 </ul>
