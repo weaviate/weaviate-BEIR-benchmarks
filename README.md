@@ -2,7 +2,7 @@
 
 This repository contains the BEIR benchmark datasets in Weaviate!
 
-To run the tests, first grab the backup and query files from the google bucket links below:
+To run the tests, first grab the backup and query files from the google drive links below:
 
 YOur file system should look like this:
 ```md
