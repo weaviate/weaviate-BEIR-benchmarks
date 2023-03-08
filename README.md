@@ -4,7 +4,7 @@ This repository contains the BEIR benchmark datasets in Weaviate!
 
 To run the tests, first grab the backup and query files from the google drive links below:
 
-YOur file system should look like this:
+Your file system should look like this:
 ```md
 -- backups / {BEIR-dataset-name}
 -- BEIR-Files / {BEIR-dataset-name}-Query.json
@@ -13,9 +13,7 @@ restore.py
 get-metrics.py
 ```
 <br />
-Run these 3 commands to get the nDCG and hits at 1 / hits at 5 metrics for a BEIR dataset!
-<br />
-(Make sure to download the Backup and Query files from the links below)
+Run with these 3 commands:
 
 ```bash
 docker-compose up -d
