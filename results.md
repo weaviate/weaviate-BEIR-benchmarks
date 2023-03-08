@@ -10,7 +10,7 @@ nDCG Scores
 | TREC-COVID        |       |       |       |       |       |
 | Touche-2020       | 0.351 |       | 0.364 |       | 0.249 |
 | Quora             | 0.770 |       | 0.867 |       | 0.887 |
-| Natural Questions | 0.244 |       | 0.380 |       |       |
+| Natural Questions | 0.244 |       | 0.380 |       | 0.438 |
 
 Speed (seconds) -- running on my laptop...
 
@@ -24,7 +24,7 @@ Speed (seconds) -- running on my laptop...
 | TREC-COVID        |     |     |     |
 | Touche-2020       | 1.3 | 2   | 1   |
 | Quora             | 448 | 783 | 377 |
-| Natural Questions | 424 | 972 |     |
+| Natural Questions | 424 | 972 | 156 |
 
 ToDo/
 Average Recall
