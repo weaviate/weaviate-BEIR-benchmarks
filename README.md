@@ -1,6 +1,6 @@
 <h2> Weaviate BEIR Benchmarks </h2>
 
-This repository contains the BEIR benchmark datasets in Weaviate!
+This repository contains the <a href = "https://arxiv.org/abs/2104.08663">BEIR benchmark datasets</a> in Weaviate!
 
 To run the tests, first grab the backup and query files from the google drive links below:
 
