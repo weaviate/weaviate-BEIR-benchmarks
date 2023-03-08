@@ -7,7 +7,7 @@ nDCG Scores
 | ArguAna           | 0.368 |       | 0.407 |       | 0.411 |
 | SCIDOCS           | 0.064 | 0.072 | 0.088 | 0.094 | 0.096 |
 | FIQA              | 0.284 | 0.390 | 0.428 | 0.447 | 0.434 |
-| TREC-COVID        |       |       |       |       |       |
+| TREC-COVID        | 0.102 | 0.102 | 0.102 | 0.086 | 0.083 |
 | Touche-2020       | 0.351 |       | 0.364 |       | 0.249 |
 | Quora             | 0.770 |       | 0.867 |       | 0.887 |
 | Natural Questions | 0.244 |       | 0.380 |       | 0.438 |
@@ -21,7 +21,7 @@ Speed (seconds) -- running on my laptop...
 | ArguAna           | 38  | 123 | 88  |
 | SCIDOCS           | 8   | 28  | 23  |
 | FIQA              | 85  | 271 | 159 |
-| TREC-COVID        |     |     |     |
+| TREC-COVID        | 0.8 | 2.2 | 1.3 |
 | Touche-2020       | 1.3 | 2   | 1   |
 | Quora             | 448 | 783 | 377 |
 | Natural Questions | 424 | 972 | 156 |
