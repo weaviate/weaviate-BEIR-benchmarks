@@ -46,3 +46,9 @@ Query Files (These need to be extended with multi-relevance labels)
   <li> QUORA - https://drive.google.com/file/d/1-7uB1Od7T0i1H9DH-SoI6fX8fRNn6JD2/view?usp=sharing </li>
   <li> NQ - https://drive.google.com/file/d/1yH-jmuBahv1SCaj8lfz012j-foiVzMcB/view?usp=sharing </li>
 </ul>
+
+More particularly, these 4 datasets need the multi-relevance labels,
+- TREC-COVID
+- NFCorpus
+- Touche-2020
+- DBPedia
