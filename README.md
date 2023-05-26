@@ -52,3 +52,10 @@ More particularly, these 4 datasets need the multi-relevance labels,
 - NFCorpus
 - Touche-2020
 - DBPedia
+
+Missing 5 BEIR Datasets
+- MSMARCO
+- DBPedia
+- FEVER (assuming Climate FEVER is the same corpus, just a different query set)
+- HotpotQA
+- CQADupStack
